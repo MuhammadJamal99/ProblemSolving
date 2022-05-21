@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\bin\Debug\net6.0\SumOddsEvens.exe
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\bin\Debug\net6.0\SumOddsEvens.deps.json
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\bin\Debug\net6.0\SumOddsEvens.runtimeconfig.json
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\bin\Debug\net6.0\SumOddsEvens.dll
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\bin\Debug\net6.0\SumOddsEvens.pdb
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.AssemblyInfo.cs
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.dll
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\refint\SumOddsEvens.dll
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.pdb
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\SumOddsEvens.genruntimeconfig.cache
+D:\Algorithms\C#\Arrays\SumOddsEvens\SumOddsEvens\obj\Debug\net6.0\ref\SumOddsEvens.dll

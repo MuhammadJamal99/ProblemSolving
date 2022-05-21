@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\bin\Debug\net6.0\FilterArrayByAnthorArray.exe
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\bin\Debug\net6.0\FilterArrayByAnthorArray.deps.json
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\bin\Debug\net6.0\FilterArrayByAnthorArray.runtimeconfig.json
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\bin\Debug\net6.0\FilterArrayByAnthorArray.dll
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\bin\Debug\net6.0\FilterArrayByAnthorArray.pdb
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.AssemblyInfo.cs
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.dll
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\refint\FilterArrayByAnthorArray.dll
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.pdb
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\FilterArrayByAnthorArray.genruntimeconfig.cache
+D:\Algorithms\C#\Arrays\FilterArrayByAnthorArray\FilterArrayByAnthorArray\obj\Debug\net6.0\ref\FilterArrayByAnthorArray.dll

@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\bin\Debug\net6.0\ISNFactored.exe
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\bin\Debug\net6.0\ISNFactored.deps.json
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\bin\Debug\net6.0\ISNFactored.runtimeconfig.json
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\bin\Debug\net6.0\ISNFactored.dll
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\bin\Debug\net6.0\ISNFactored.pdb
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.AssemblyInfo.cs
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.dll
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\refint\ISNFactored.dll
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.pdb
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ISNFactored.genruntimeconfig.cache
+D:\Algorithms\C#\Problem Solving\ISNFactored\ISNFactored\obj\Debug\net6.0\ref\ISNFactored.dll

@@ -1,0 +1,30 @@
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.exe
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.deps.json
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.runtimeconfig.json
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.dll
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.pdb
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.AssemblyInfo.cs
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.dll
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\refint\IsPalindrome.dll
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.pdb
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.genruntimeconfig.cache
+D:\Algorithms\C#\Arrays\IsPalindrome\IsPalindrome\obj\Debug\net6.0\ref\IsPalindrome.dll
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.exe
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.deps.json
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.runtimeconfig.json
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.dll
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\bin\Debug\net6.0\IsPalindrome.pdb
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.AssemblyInfo.cs
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.dll
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\refint\IsPalindrome.dll
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.pdb
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\IsPalindrome.genruntimeconfig.cache
+D:\Algorithms\C#\Problem Solving\IsPalindrome\IsPalindrome\obj\Debug\net6.0\ref\IsPalindrome.dll
