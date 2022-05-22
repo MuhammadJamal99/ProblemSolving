@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\bin\Debug\net6.0\RomanLettersToInteger.exe
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\bin\Debug\net6.0\RomanLettersToInteger.deps.json
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\bin\Debug\net6.0\RomanLettersToInteger.runtimeconfig.json
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\bin\Debug\net6.0\RomanLettersToInteger.dll
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\bin\Debug\net6.0\RomanLettersToInteger.pdb
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.AssemblyInfo.cs
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.dll
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\refint\RomanLettersToInteger.dll
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.pdb
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\RomanLettersToInteger.genruntimeconfig.cache
+D:\Algorithms\C#\Problem Solving\LeetCode\RomanLettersToInteger\RomanLettersToInteger\obj\Debug\net6.0\ref\RomanLettersToInteger.dll
