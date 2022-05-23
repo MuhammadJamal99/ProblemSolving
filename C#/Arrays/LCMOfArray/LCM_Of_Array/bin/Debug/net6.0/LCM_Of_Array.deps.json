@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LCM_Of_Array/1.0.0": {
+        "runtime": {
+          "LCM_Of_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCM_Of_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
