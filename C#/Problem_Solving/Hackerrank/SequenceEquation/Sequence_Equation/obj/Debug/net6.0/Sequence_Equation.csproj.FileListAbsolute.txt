@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\bin\Debug\net6.0\Sequence_Equation.exe
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\bin\Debug\net6.0\Sequence_Equation.deps.json
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\bin\Debug\net6.0\Sequence_Equation.runtimeconfig.json
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\bin\Debug\net6.0\Sequence_Equation.dll
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\bin\Debug\net6.0\Sequence_Equation.pdb
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.AssemblyInfo.cs
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.dll
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\refint\Sequence_Equation.dll
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.pdb
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\Sequence_Equation.genruntimeconfig.cache
+D:\Algorithms\C#\Problem_Solving\Hackerrank\SequenceEquation\Sequence_Equation\obj\Debug\net6.0\ref\Sequence_Equation.dll
