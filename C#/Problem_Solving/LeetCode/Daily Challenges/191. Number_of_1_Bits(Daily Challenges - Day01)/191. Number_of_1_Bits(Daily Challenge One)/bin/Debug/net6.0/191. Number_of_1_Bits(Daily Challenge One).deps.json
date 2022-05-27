@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "191. Number_of_1_Bits(Daily Challenge One)/1.0.0": {
+        "runtime": {
+          "191. Number_of_1_Bits(Daily Challenge One).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "191. Number_of_1_Bits(Daily Challenge One)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

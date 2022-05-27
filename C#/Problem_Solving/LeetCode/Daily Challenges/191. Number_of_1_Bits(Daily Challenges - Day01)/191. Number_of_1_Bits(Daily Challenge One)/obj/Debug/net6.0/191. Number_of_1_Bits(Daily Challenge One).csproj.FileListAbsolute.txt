@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\bin\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).exe
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\bin\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).deps.json
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\bin\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).runtimeconfig.json
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\bin\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).dll
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\bin\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).pdb
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).csproj.AssemblyReference.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).AssemblyInfoInputs.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).AssemblyInfo.cs
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).dll
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\refint\191. Number_of_1_Bits(Daily Challenge One).dll
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).pdb
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\191. Number_of_1_Bits(Daily Challenge One).genruntimeconfig.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Daily Challenges\NumberofOneBits\191. Number_of_1_Bits(Daily Challenge One)\obj\Debug\net6.0\ref\191. Number_of_1_Bits(Daily Challenge One).dll
