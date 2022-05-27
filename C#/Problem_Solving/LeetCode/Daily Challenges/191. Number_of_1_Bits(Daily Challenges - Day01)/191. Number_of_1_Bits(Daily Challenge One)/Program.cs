@@ -1,11 +1,10 @@
-﻿public class HammingWeightClass
+﻿public class Solution
 {
     static void Main(string [] args)
     {
         Console.WriteLine("Please Enter Unsigned Number:");
         uint Num = Convert.ToUInt32(Console.ReadLine());
         Console.WriteLine($"The Numbers of Ones in {Num} Is: {HammingWeight(Num)}");
-
     }
     static int HammingWeight(string n)
     {
