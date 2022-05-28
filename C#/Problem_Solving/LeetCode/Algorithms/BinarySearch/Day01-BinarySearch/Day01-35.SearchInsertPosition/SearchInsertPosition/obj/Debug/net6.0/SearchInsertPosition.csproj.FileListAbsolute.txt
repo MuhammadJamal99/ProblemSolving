@@ -1,0 +1,15 @@
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.exe
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.deps.json
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.runtimeconfig.json
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.dll
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.pdb
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.AssemblyReference.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfoInputs.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfo.cs
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.dll
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\refint\SearchInsertPosition.dll
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.pdb
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.genruntimeconfig.cache
+D:\Algorithms\C#\Problem_Solving\LeetCode\Algorithms\BinarySearch\Day01-BinarySearch\Day01-278.FirstBadVersion\SearchInsertPosition\obj\Debug\net6.0\ref\SearchInsertPosition.dll
