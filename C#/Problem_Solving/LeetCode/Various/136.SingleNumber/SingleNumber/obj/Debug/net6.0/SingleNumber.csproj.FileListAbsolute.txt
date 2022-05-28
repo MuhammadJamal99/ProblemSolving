@@ -1,0 +1,15 @@
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\bin\Debug\net6.0\SingleNumber.exe
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\bin\Debug\net6.0\SingleNumber.deps.json
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\bin\Debug\net6.0\SingleNumber.runtimeconfig.json
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\bin\Debug\net6.0\SingleNumber.dll
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\bin\Debug\net6.0\SingleNumber.pdb
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.csproj.AssemblyReference.cache
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.AssemblyInfoInputs.cache
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.AssemblyInfo.cs
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.dll
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\refint\SingleNumber.dll
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.pdb
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\SingleNumber.genruntimeconfig.cache
+D:\ProblemSolving\C#\Problem_Solving\LeetCode\Various\136.SingleNumber\SingleNumber\obj\Debug\net6.0\ref\SingleNumber.dll
