@@ -1,0 +1,15 @@
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\bin\Debug\net6.0\StringLength.exe
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\bin\Debug\net6.0\StringLength.deps.json
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\bin\Debug\net6.0\StringLength.runtimeconfig.json
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\bin\Debug\net6.0\StringLength.dll
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\bin\Debug\net6.0\StringLength.pdb
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.csproj.AssemblyReference.cache
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.AssemblyInfoInputs.cache
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.AssemblyInfo.cs
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.dll
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\refint\StringLength.dll
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.pdb
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\StringLength.genruntimeconfig.cache
+D:\ProblemSolving\C#\Built_In_Functions\StringLength\StringLength\obj\Debug\net6.0\ref\StringLength.dll
